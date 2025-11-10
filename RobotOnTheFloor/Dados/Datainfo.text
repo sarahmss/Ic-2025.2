@@ -1,0 +1,8 @@
+./Data1 ---> ZZX_RNN2
+./Data2 ---> ZZX_RNN15
+./Data3 ---> ZZX_RNN13
+----------------------------------
+./TestData/Data1 ---> ZZX_RNN13
+./TestData/Data2 ---> ZZX_RNN11
+./TestData/Data3 ---> ZZX_RNN10_2
+./TestData/Data4 ---> ZZX_RNN10_1
